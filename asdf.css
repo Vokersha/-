@@ -1,0 +1,143 @@
+/* Главная траница */
+body {
+    margin-left: 0px;
+    margin: 0;
+}
+
+header {
+    background-image: url(./img/fon.jpg);
+    width: 100%;
+    height: 1008px;
+    display: flex;
+}
+.text1{
+    font-size: 36px;
+    font-family: gagalin;
+    color:white;
+    text-align: center;
+    margin-left:200px;
+    margin-top:250px;
+}
+.text2{
+    font-size: 30px;
+    font-family: gagalin;
+    color:white;
+    text-align: center;
+    width: 600px;
+    margin-left:-740px;
+    margin-top:330px;
+}
+.text3{
+    font-size: 30px;
+    font-family: gagalin;
+    color:white;
+    text-align: center;
+    width: 400px;
+    margin-left:475px;
+    margin-top:800px;
+}
+/* Начало основной страницы */
+.foto1{
+    margin-top:150px;
+    width: 300px;
+    margin-left:50px;
+    height: 500px;
+}
+.text4{
+    font-size: 30px;
+    font-family: gagalin;
+    text-align: center;
+    width: 400px;
+    color:black;
+}
+.solo{
+    display: flex;
+    flex-direction: column;
+    margin-left:300px;
+}
+.solo2{
+    display: flex;
+    flex-direction: column;
+    margin-left:750px;
+    margin-top:-725px;
+}
+.solo3{
+    display: flex;
+    flex-direction: column;
+    margin-left:1200px;
+    margin-top:-725px;
+}
+.solo4{
+    display: flex;
+    flex-direction: column;
+    margin-left:450px;
+    margin-top:-100px;
+}
+.solo5{
+    display: flex;
+    flex-direction: column;
+    margin-left:1050px;
+    margin-top:-700px;
+}
+/* 3я новелла */
+.div9{
+    background-color: rgb(235, 235, 235);
+    height: 900px;
+}
+.foto2{
+    margin-top:100px;
+    margin-left:150px;
+    width: 350px;
+}
+.text5{
+    margin-left:125px;
+    font-size: 30px;
+    font-family: gagalin;
+    text-align: center;
+    width: 400px;
+    color:black;
+}
+.text6{
+    margin-top: -850px;
+    margin-left:925px;
+    font-size: 30px;
+    font-family: gagalin;
+    text-align: center;
+    width: 700px;
+    color:black;
+}
+.texta{
+    font-size: 25px;
+    font-family: gagalin;
+    text-align: center;
+    width: 100%;
+    color:black;
+    line-height: 2;
+}
+.div8{
+    margin-top:150px;
+}
+.div7{
+    margin-top: 650px;
+}
+.div6{
+    margin-top: 300px;
+}
+.textqwe{
+    font-size: 25px;
+    font-family: gagalin;
+    text-align: center;
+    width: 100%;
+    color:black;
+}
+.foto12{
+    height: 50px;
+}
+.text122{
+    font-size: 20px;
+    font-family: gagalin;
+    text-align: center;
+    width: 100%;
+    color:white;
+    margin-top:-50px;
+}
